@@ -3,3 +3,4 @@ credentials.json
 venv/
 __pycache__/
 *.log
+.ssh/github_ci
