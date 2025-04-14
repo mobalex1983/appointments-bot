@@ -1,3 +1,4 @@
+#тест
 from aiogram import Bot, Dispatcher, types
 from google_calendar import delete_event_from_calendar, MOSCOW_CALENDAR_ID, KRASNODAR_CALENDAR_ID
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, InputFile
